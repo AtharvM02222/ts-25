@@ -1,7 +1,7 @@
 [
   {
     "name": "Jai Dugal",
-    "pfp": "/pics/jai_dugal.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/jai_dugal?_a=BAMAPqfk0",
     "role": "President",
     "socials": [
       "https://spotify.link/uqH9ei9h5Db",
@@ -13,7 +13,7 @@
   {
     "name": "Prisha Bhatia",
     "role": "Vice President",
-    "pfp": "/pics/prisha_bhatia.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/prisha_bhatia?_a=BAMAPqfk0",
     "socials": [
       "https://github.com/PianoPianist",
       "https://open.spotify.com/user/31z4mkeivhrm7irpcf5yn2tfks6i?si=_ov6LOzxQJaDfzPSe4bN_g&utm_source=copy-link&nd=1",
@@ -23,7 +23,7 @@
   },
   {
     "name": "Swastik Seth",
-    "pfp": "/pics/swastik_seth.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/swastik_seth?_a=BAMAPqfk0",
     "role": "Secretary",
     "socials": [
       "https://www.youtube.com/@swastikseth9448",
@@ -34,7 +34,7 @@
   },
   {
     "name": "Ishit Rastogi",
-    "pfp": "/pics/ishit_rastogi.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/ishit_rastogi?_a=BAMAPqfk0",
     "role": "Joint Secretary",
     "socials": [
       "https://github.com/NotIshi28",
@@ -45,7 +45,7 @@
   },
   {
     "name": "Pakhi Bisht",
-    "pfp": "/pics/pakhi_bisht.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/pakhi_bisht?_a=BAMAPqfk0",
     "role": "Core",
     "socials": [
       "https://github.com/Psych4-383",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Shyamak Seth",
-    "pfp": "/pics/shyamak_seth.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/shyamak_seth?_a=BAMAPqfk0",
     "role": "Core",
     "socials": [
       "https://github.com/Shyamak-Seth",
@@ -67,7 +67,7 @@
   {
     "name": "Bhavit Grover",
     "role": "Core",
-    "pfp": "/pics/bhavit_grover.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/bhavit_grover?_a=BAMAPqfk0",
     "socials": [
       "https://github.com/bhavitgrover",
       "https://www.behance.net/bhavitgrover",
@@ -77,7 +77,7 @@
   },
   {
     "name": "Naitik Agarwal",
-    "pfp": "/pics/naitik_agarwal.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/naitik_agarwal?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://open.spotify.com/user/zsrce5b46sjn303d0yf6344lx?si=1c9332cae03546c6",
@@ -85,10 +85,9 @@
       "https://www.youtube.com/channel/UC9zIC1A9UhqacFoV1lLlzVg"
     ]
   },
-
   {
     "name": "Ayush Sharma",
-    "pfp": "/pics/ayush_sharma.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/ayush_sharma?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://open.spotify.com/user/31toavg24xcf7rmgo75ndkbtoc5e?si=c7effeb6c2cd48f2",
@@ -98,7 +97,7 @@
   },
   {
     "name": "Akshar Yadav",
-    "pfp": "/pics/akshar_yadav.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/akshar_yadav?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://linkedin.com/in/aksharyadav26",
@@ -108,7 +107,7 @@
   },
   {
     "name": "Diya Kerur",
-    "pfp": "/pics/diya_kerur.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/diya_kerur?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://open.spotify.com/user/zq69okuu42j8tcxjby28jx0c8?si=5J3Rt5i2ShSwljQQNUFrBQ",
@@ -118,7 +117,7 @@
   },
   {
     "name": "Avisha Garg",
-    "pfp": "/pics/avisha_garg.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/avisha_garg?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://open.spotify.com/user/8hp997t0s5bghesrn6ncjm2c6?si=mfZFMLrHRmSlwIs6fVpbpA",
@@ -127,7 +126,7 @@
   },
   {
     "name": "Kanishk Verma",
-    "pfp": "/pics/kanishk_verma.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/kanishk_verma?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://github.com/KanishkGitHub",
@@ -138,7 +137,7 @@
   },
   {
     "name": "Arnav Verma",
-    "pfp": "/pics/arnav_verma.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/arnav_verma?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://open.spotify.com/user/31iqc34dtnt3s64bvmkh7nsaoidy?si=84f0925e88f04f9a",
@@ -149,7 +148,7 @@
   },
   {
     "name": "Moksh Agarwal",
-    "pfp": "/pics/moksh_agarwal.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/moksh_agarwal?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://www.instagram.com/notmoksh2189/",
@@ -159,7 +158,7 @@
   },
   {
     "name": "Kushagra Goel",
-    "pfp": "/pics/kushagra_goel.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/kushagra_goel?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:goel.kush11@gmail.com",
@@ -170,7 +169,7 @@
   },
   {
     "name": "Yash Pathak",
-    "pfp": "/pics/yash_pathak.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/yash_pathak?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:iamypgaming@gmail.com",
@@ -180,7 +179,7 @@
   },
   {
     "name": "Disha Dhir",
-    "pfp": "/pics/disha_dhir.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/disha_dhir?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:dishadhir0@gmail.com",
@@ -189,7 +188,7 @@
   },
   {
     "name": "Aarav Juneja",
-    "pfp": "/pics/aarav_juneja.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/aarav_juneja?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:aarav.juneja2044@gmail.com",
@@ -200,7 +199,7 @@
   },
   {
     "name": "Avani Yadav",
-    "pfp": "/pics/avani_yadav.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/avani_yadav?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:avani2010yadav@gmail.com",
@@ -210,7 +209,7 @@
   },
   {
     "name": "Aryaman Yadav",
-    "pfp": "/pics/aryaman_yadav.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/aryaman_yadav?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:yadavaryaman705@gmail.com",
@@ -219,7 +218,7 @@
   },
   {
     "name": "Karthik V.",
-    "pfp": "/pics/karthik_venkateswaran.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/karthik_venkateswaran?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:karthik.venkateswaran09@gmail.com",
@@ -228,7 +227,7 @@
   },
   {
     "name": "Jinisha Yadav",
-    "pfp": "/pics/jinisha_yadav.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/jinisha_yadav?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "https://www.behance.net/jinishaa",
@@ -238,7 +237,7 @@
   },
   {
     "name": "Dhairya Gandhi",
-    "pfp": "/pics/dhairya_gandhi.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/dhairya_gandhi?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:gandhi.dhairya2009@gmail.com",
@@ -248,7 +247,7 @@
   },
   {
     "name": "Chirayu Kataria",
-    "pfp": "/pics/chirayu_kataria.webp",
+    "pfp": "https://res.cloudinary.com/dfldiwxyh/image/upload/f_auto,q_auto/v1/pics/chirayu_kataria?_a=BAMAPqfk0",
     "role": "Member",
     "socials": [
       "mailto:kchirayuk2@gmail.com",
